@@ -15,5 +15,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+David Vaughn
