@@ -2,7 +2,7 @@ extends CanvasLayer
 
 func _physics_process(delta):
 	$Score.text = " Score: " + str(Global.score) 
-	if Input.is_action_just_pressed("menu"):
+	if Input.is_action_just_pressed("Menu"):
 		if $Menu.visible:
 			$Menu.hide()
 		else:
